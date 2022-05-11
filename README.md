@@ -6,5 +6,5 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nycallusion)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nycallusion)]
+(https://github-readme-stats.vercel.app/api?username=nycallusion)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nycallusion)](https://github.com/anuraghazra/github-readme-stats)
