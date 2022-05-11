@@ -4,9 +4,11 @@
 - 💬 Ask me about Anything!
 - 📫 How to reach me: dlau3335@gmail.com
 <!-- - ⚡ Fun fact: ... -->
+<h3 align="center">Languages and Tools:</h3>
+
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<h3 align="center">Languages and Tools:</h3>
+
 
 <p align="left"> 
 <!--   <a href="https://www.docker.com//" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="c" width="40" height="40"/> Docker </a>  -->
