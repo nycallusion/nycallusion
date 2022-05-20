@@ -1,8 +1,11 @@
 ![](banner.png)
 ### Hi there 👋
 - 🔭 I’m currently working on Personal Projects
+    ```
     developer([eat, code , sleep]) => ReferenceError: sleep is not defined at Object.<David> (/body/head/brain.js:1:1)
     npm install sleep @latest --force
+    
+    ```
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about Anything!
 - 📫 How to reach me: dlau3335@gmail.com
