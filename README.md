@@ -1,10 +1,7 @@
 ![](banner.png)
 ### Hi there 👋
-
-<span style="color: red;">text</span>
-
-- 🔭 I’m currently working on Random Things
-- 🌱 I’m currently learning NEXT.JS
+- 🔭 I’m currently working on developer([eat, code , sleep]) => ReferenceError: sleep is not defined at Object.<David> (/body/head/brain.js:1:1)
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about Anything!
 - 📫 How to reach me: dlau3335@gmail.com
 <!-- - ⚡ Fun fact: ... -->
