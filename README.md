@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<span style="color:red">sdfsdfsf</span>.
+<span style="color: red;">text</span>
 
 - 🔭 I’m currently working on Random Things
 - 🌱 I’m currently learning NEXT.JS
