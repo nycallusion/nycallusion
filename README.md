@@ -4,7 +4,6 @@
     ```
     developer([eat, code , sleep]) => ReferenceError: sleep is not defined at Object.<David> (/body/head/brain.js:1:1)
     npm install sleep @latest --force
-    
     ```
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about Anything!
