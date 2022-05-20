@@ -34,7 +34,7 @@
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nycallusion)](https://github.com/anuraghazra/github-readme-stats) -->
-![](https://github-readme-stats.vercel.app/api?username=nycallusion&show_icons=true&theme=dark)
+[](https://github-readme-stats.vercel.app/api?username=nycallusion&show_icons=true&theme=dark)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nycallusion&show_icons=true&theme=dark)
 
