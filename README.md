@@ -1,4 +1,3 @@
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
 ### Hi there 👋
 - 🔭 I’m currently working on Random Things
 - 🌱 I’m currently learning NEXT.JS
@@ -30,7 +29,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nycallusion)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nycallusion)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
+
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+    <h1>sdfsfdsd</h1>
+</div>
 
 
