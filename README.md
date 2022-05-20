@@ -1,12 +1,14 @@
 ### Hi there 👋
-<span style="color:red">
+
+<span style="color:red">sdfsdfsf</span>.
+
 - 🔭 I’m currently working on Random Things
 - 🌱 I’m currently learning NEXT.JS
 - 💬 Ask me about Anything!
 - 📫 How to reach me: dlau3335@gmail.com
 <!-- - ⚡ Fun fact: ... -->
 
-</span>.
+
 
 
 <h3 align="center">Languages and Tools:</h3>
