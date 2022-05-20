@@ -1,9 +1,14 @@
 ### Hi there 👋
+<span style="color:red">
 - 🔭 I’m currently working on Random Things
 - 🌱 I’m currently learning NEXT.JS
 - 💬 Ask me about Anything!
 - 📫 How to reach me: dlau3335@gmail.com
 <!-- - ⚡ Fun fact: ... -->
+
+</span>.
+
+
 <h3 align="center">Languages and Tools:</h3>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,8 +37,5 @@
 
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-    <h1>sdfsfdsd</h1>
-</div>
 
 
